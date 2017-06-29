@@ -1,6 +1,9 @@
 # Archer_C7v2_Sniffer_image
 Enable TP-Link C7v2 image with needed tool for Wireless Sniffer usage.
-Here we use the Lede with customized tool/driver/firmware for TP-Link Archer C7 v2.
+Here we use the LEDE with customized tool/driver/firmware for TP-Link Archer C7 v2.
+
+The LEDE is branch of openwrt and also future of this famous open source project.
+if you are interested in LEDE. Please refer to https://lede-project.org/ .
 
 The current verified AP is only C7 version 2.(Version 3/4 is not tested)
 With the image, you can set command on your own to enable Sinffer function.
