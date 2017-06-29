@@ -21,8 +21,8 @@ The factory.bin is target for stock firmware.
 You just log in TP Link page(Seems 192.168.0.1), Go to update firmware page.
 Then select the factory.bin such as
 
-lede-ar71xx-generic-archer-c7-v2-squashfs-factory.bin
-lede-ar71xx-generic-archer-c7-v2-squashfs-factory-eu.bin
+lede-ar71xx-generic-archer-c7-v2-squashfs-factory.bin or
+lede-ar71xx-generic-archer-c7-v2-squashfs-factory-eu.bin or
 lede-ar71xx-generic-archer-c7-v2-squashfs-factory-us.bin
 
 Any of above
